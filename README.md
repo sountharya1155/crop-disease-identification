@@ -102,7 +102,7 @@ Benefits of using CropCure:
 
 -  Reduces guesswork and pesticide misuse  
 -  Improves crop yield and sustainability  
-- 🖥 Accessible and easy to use  
+-  Accessible and easy to use  
 
 ## License
 This project is open-source. 
