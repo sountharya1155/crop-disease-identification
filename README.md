@@ -74,21 +74,35 @@ pip install -r requirements.txt
 
 uvicorn main:app --reload         # Runs at http://localhost:8000
 
+
 ##  Excel Report Download
-After a successful diagnosis (from image or voice input), users can download a well-formatted Excel report containing:
--- The diagnosed disease
--- The suggested treatment
-This allows for easy sharing, record-keeping, or printing.
+
+After a successful diagnosis (via image or voice input), users can download a well-formatted **Excel report** that includes:
+
+-  The diagnosed disease  
+-  The suggested treatment  
+
+This enables:
+
+- Easy sharing  
+- Record-keeping  
+- Printing and offline access  
+
+---
 
 ##  Purpose
-**CropCure is built to support:**
--- Smallholder and marginal farmers
--- Agricultural officers and field workers
--- Real-time, low-barrier crop disease diagnosis
 
--- It helps reduce guesswork and pesticide misuse
---  It improves crop yield and sustainability
---  It is designed to be accessible and easy to use
+**CropCure** is designed to support:
+
+-  Smallholder and marginal farmers  
+-  Agricultural officers and field workers  
+-  Real-time, low-barrier crop disease diagnosis  
+
+Benefits of using CropCure:
+
+-  Reduces guesswork and pesticide misuse  
+-  Improves crop yield and sustainability  
+- 🖥 Accessible and easy to use  
 
 ## License
 This project is open-source. 
