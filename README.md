@@ -31,7 +31,9 @@
 
 ---
 
-## Project Structure 
+## 📁 Project Structure
+
+```
 AI_Helper/
 │
 ├── __pycache__/               # Python cache files
@@ -59,6 +61,8 @@ AI_Helper/
 ├── requirements.txt           # List of Python dependencies
 ├── streamlite1.py             # Streamlit app file
 └── voice_to_text.py           # Voice recognition module
+```
+
 
 ## Setup Instructions
 Backend (FastAPI)
@@ -82,9 +86,9 @@ This allows for easy sharing, record-keeping, or printing.
 -- Agricultural officers and field workers
 -- Real-time, low-barrier crop disease diagnosis
 
-✅ It helps reduce guesswork and pesticide misuse
-✅ It improves crop yield and sustainability
-✅ It is designed to be accessible and easy to use
+-- It helps reduce guesswork and pesticide misuse
+--  It improves crop yield and sustainability
+--  It is designed to be accessible and easy to use
 
 ## License
 This project is open-source. 
